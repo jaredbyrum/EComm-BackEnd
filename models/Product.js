@@ -40,8 +40,6 @@ Product.init(
         model: 'category',
         key: 'id'
       },
-      // allows delete on referenced key
-      onDelete: 'CASCADE'
     }
   },
   {
